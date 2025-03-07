@@ -1,0 +1,9 @@
+langchain
+langgraph
+groq
+tavily-python
+streamlit
+pydantic
+python-dotenv
+reportlab
+fpdf2
